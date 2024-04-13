@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
+## About Me
 - 🌱 Keen to explore new technology and alawys focused on the problem solving through software solutions.
+- 🎓 Studying Master's in Computer System and Knowledge Engineering in Tribhuwan University. 
