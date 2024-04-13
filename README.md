@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💼 Working as a Software Engineer.
 - 🔭 Currently exploring machine learning algorithms
 
-- ## Tech Stack
+## Tech Stack
 - 💡 Javascript | Typescript | Python
 - 🏆 Reactjs | Nextjs | Angular | Django | Nodejs
 - 🏡 Hml | Css | Scss | Bootstrap | Material Ui | Tailwind Css
