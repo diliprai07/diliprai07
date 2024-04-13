@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 ## About Me
 - 🌱 Keen to explore new technology and alawys focused on the problem solving through software solutions.
-- 🎓 Studying Master's in Computer System and Knowledge Engineering in Tribhuwan University. 
+- 🎓 Studying Master's in Computer System and Knowledge Engineering in Tribhuwan University.
+- 💼 Working as a Software Engineer.
+- 🔭 Currently exploring machine learning algorithms
