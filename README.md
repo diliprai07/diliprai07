@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 - 🎓 Studying Master's in Computer System and Knowledge Engineering in Tribhuwan University.
 - 💼 Working as a Software Engineer.
 - 🔭 Currently exploring machine learning algorithms
+
+- ## Tech Stack
+- 💡 Javascript | Typescript | Python
+- 🏆 Reactjs | Nextjs | Angular | Django | Nodejs
+- 🏡 Hml | Css | Scss | Bootstrap | Material Ui | Tailwind Css
+- 💡 MySql | MongoDb | Mssql 
+- 🏆 Git | Gitub | Git Actions | Aws
